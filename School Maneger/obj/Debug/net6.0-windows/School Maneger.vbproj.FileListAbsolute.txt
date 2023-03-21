@@ -1,0 +1,51 @@
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\School Maneger.exe
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\School Maneger.deps.json
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\School Maneger.runtimeconfig.json
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\School Maneger.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\School Maneger.pdb
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\Krypton.Toolkit.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\Krypton.Toolkit.Suite.Extended.Common.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\Krypton.Toolkit.Suite.Extended.Effects.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\Krypton.Toolkit.Suite.Extended.Memory.Box.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\Krypton.Toolkit.Suite.Extended.Tools.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.vbproj.AssemblyReference.cache
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.Connexion.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.Form1.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.Menu.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.vbproj.GenerateResource.cache
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.AssemblyInfoInputs.cache
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.AssemblyInfo.vb
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.vbproj.CoreCompileInputs.cache
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.vbproj.CopyComplete
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.pdb
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School Maneger.genruntimeconfig.cache
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\ref\School Maneger.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.Gestion_des_Etudiant.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.afficher_etudiant.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.filliere.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.matiere.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.Affiche_note.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.Ajout_note.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.Resources.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.creer_compte.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.changer_mdp.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.Ajout_des_note_etudient.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.debu.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.connetion.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.fin.resources
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\refint\School Maneger.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\bin\Debug\net6.0-windows\MessagingToolkit.QRCode.dll
+C:\Users\hhtke\source\repos\School Maneger\School Maneger\obj\Debug\net6.0-windows\School_Maneger.Aide.resources

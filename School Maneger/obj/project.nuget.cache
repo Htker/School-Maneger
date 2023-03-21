@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "KoS/VUGYiWrfhNVZwUz6XwKMk+hQw4m7/ru0aLWopB8rgBRFQHof6JE67DZep69xNUzgl6J6OVETti9n1lQIhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hhtke\\source\\repos\\School Maneger\\School Maneger\\School Maneger.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hhtke\\.nuget\\packages\\krypton.toolkit\\60.22.2.32\\krypton.toolkit.60.22.2.32.nupkg.sha512",
+    "C:\\Users\\hhtke\\.nuget\\packages\\krypton.toolkit.suite.extended.common\\60.2202.33\\krypton.toolkit.suite.extended.common.60.2202.33.nupkg.sha512",
+    "C:\\Users\\hhtke\\.nuget\\packages\\krypton.toolkit.suite.extended.developer.utilities\\60.2202.33\\krypton.toolkit.suite.extended.developer.utilities.60.2202.33.nupkg.sha512",
+    "C:\\Users\\hhtke\\.nuget\\packages\\krypton.toolkit.suite.extended.effects\\60.2202.33\\krypton.toolkit.suite.extended.effects.60.2202.33.nupkg.sha512",
+    "C:\\Users\\hhtke\\.nuget\\packages\\krypton.toolkit.suite.extended.memory.box\\60.2202.33\\krypton.toolkit.suite.extended.memory.box.60.2202.33.nupkg.sha512",
+    "C:\\Users\\hhtke\\.nuget\\packages\\krypton.toolkit.suite.extended.tools\\60.2202.33\\krypton.toolkit.suite.extended.tools.60.2202.33.nupkg.sha512",
+    "C:\\Users\\hhtke\\.nuget\\packages\\windowsapicodepackshell\\1.1.2\\windowsapicodepackshell.1.1.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'WindowsAPICodePackShell 1.1.2' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net6.0-windows7.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "WindowsAPICodePackShell",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

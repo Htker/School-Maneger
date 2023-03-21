@@ -1,0 +1,386 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Krypton.Toolkit/60.22.2.32": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Krypton.Toolkit.Suite.Extended.Common/60.2202.33": {
+        "type": "package",
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32",
+          "Krypton.Toolkit.Suite.Extended.Developer.Utilities": "60.2202.33",
+          "Krypton.Toolkit.Suite.Extended.Effects": "60.2202.33"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Common.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Krypton.Toolkit.Suite.Extended.Developer.Utilities/60.2202.33": {
+        "type": "package",
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32",
+          "Krypton.Toolkit.Suite.Extended.Tools": "60.2202.33",
+          "WindowsAPICodePackShell": "1.1.2"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Krypton.Toolkit.Suite.Extended.Effects/60.2202.33": {
+        "type": "package",
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Effects.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Effects.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Krypton.Toolkit.Suite.Extended.Memory.Box/60.2202.33": {
+        "type": "package",
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32",
+          "Krypton.Toolkit.Suite.Extended.Common": "60.2202.33"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Memory.Box.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Memory.Box.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Krypton.Toolkit.Suite.Extended.Tools/60.2202.33": {
+        "type": "package",
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Tools.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Tools.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WindowsAPICodePackShell/1.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Krypton.Toolkit/60.22.2.32": {
+      "sha512": "S0frJcQ1oUBOdlyAblIh7mpEr+6/Yi9xisFXfM55WOje0122Qye9jp/4UVKPCp889jmwZbEgXOGjdDOyzX8Ycg==",
+      "type": "package",
+      "path": "krypton.toolkit/60.22.2.32",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Krypton Stable.png",
+        "krypton.toolkit.60.22.2.32.nupkg.sha512",
+        "krypton.toolkit.nuspec",
+        "lib/net462/Krypton.Toolkit.dll",
+        "lib/net462/Krypton.Toolkit.xml",
+        "lib/net47/Krypton.Toolkit.dll",
+        "lib/net47/Krypton.Toolkit.xml",
+        "lib/net471/Krypton.Toolkit.dll",
+        "lib/net471/Krypton.Toolkit.xml",
+        "lib/net472/Krypton.Toolkit.dll",
+        "lib/net472/Krypton.Toolkit.xml",
+        "lib/net48/Krypton.Toolkit.dll",
+        "lib/net48/Krypton.Toolkit.xml",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.dll",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.xml",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.dll",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.xml",
+        "lib/netcoreapp3.1/Krypton.Toolkit.dll",
+        "lib/netcoreapp3.1/Krypton.Toolkit.xml"
+      ]
+    },
+    "Krypton.Toolkit.Suite.Extended.Common/60.2202.33": {
+      "sha512": "7T/Hp90yJidYfyXReJ/PBfghVLNX5JQ0pJ5N8T/SHUJkZjyCPzxqNFcuhhcLe3mAHyqTDNWQKQchVRqTX+EKOw==",
+      "type": "package",
+      "path": "krypton.toolkit.suite.extended.common/60.2202.33",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Stable.png",
+        "krypton.toolkit.suite.extended.common.60.2202.33.nupkg.sha512",
+        "krypton.toolkit.suite.extended.common.nuspec",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Common.dll",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Common.xml",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Common.dll",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Common.xml",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Common.dll",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Common.xml",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Common.dll",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Common.xml",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Common.dll",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Common.xml",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Common.dll",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Common.xml",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Common.dll",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Common.xml",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Common.dll",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Common.xml"
+      ]
+    },
+    "Krypton.Toolkit.Suite.Extended.Developer.Utilities/60.2202.33": {
+      "sha512": "UdDAFDf93v4iGI/BqWGZ+IEq37vvRJsxJjlikZ3rz1KZ8DOkx5dvAJHy4TYUcvUG9zvdklVKB/5w3jZR91orlA==",
+      "type": "package",
+      "path": "krypton.toolkit.suite.extended.developer.utilities/60.2202.33",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Stable.png",
+        "krypton.toolkit.suite.extended.developer.utilities.60.2202.33.nupkg.sha512",
+        "krypton.toolkit.suite.extended.developer.utilities.nuspec",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Developer.Utilities.xml",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Developer.Utilities.xml",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Developer.Utilities.xml",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Developer.Utilities.xml",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Developer.Utilities.xml",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Developer.Utilities.xml",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Developer.Utilities.xml",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Developer.Utilities.xml"
+      ]
+    },
+    "Krypton.Toolkit.Suite.Extended.Effects/60.2202.33": {
+      "sha512": "nNvw6FW3kGvI58+F0XWmNzBxJZtPL6IOtrbh2KNkyMcIQatqMvQa7CwoT0OiyFszgf84OqwD4/2jPtRlI5QGXg==",
+      "type": "package",
+      "path": "krypton.toolkit.suite.extended.effects/60.2202.33",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Stable.png",
+        "krypton.toolkit.suite.extended.effects.60.2202.33.nupkg.sha512",
+        "krypton.toolkit.suite.extended.effects.nuspec",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Effects.dll",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Effects.xml",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Effects.dll",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Effects.xml",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Effects.dll",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Effects.xml",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Effects.dll",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Effects.xml",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Effects.dll",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Effects.xml",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Effects.dll",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Effects.xml",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Effects.dll",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Effects.xml",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Effects.dll",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Effects.xml"
+      ]
+    },
+    "Krypton.Toolkit.Suite.Extended.Memory.Box/60.2202.33": {
+      "sha512": "x1rRbPwkfQ9CYEsGx6z568tVDrjC07oM3Hr0gcsxqYgX683usILPcpXIIelKEHDo395FFPrReq83pXVNucn39Q==",
+      "type": "package",
+      "path": "krypton.toolkit.suite.extended.memory.box/60.2202.33",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Stable.png",
+        "krypton.toolkit.suite.extended.memory.box.60.2202.33.nupkg.sha512",
+        "krypton.toolkit.suite.extended.memory.box.nuspec",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Memory.Box.dll",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Memory.Box.xml",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Memory.Box.dll",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Memory.Box.xml",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Memory.Box.dll",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Memory.Box.xml",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Memory.Box.dll",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Memory.Box.xml",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Memory.Box.dll",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Memory.Box.xml",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Memory.Box.dll",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Memory.Box.xml",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Memory.Box.dll",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Memory.Box.xml",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Memory.Box.dll",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Memory.Box.xml"
+      ]
+    },
+    "Krypton.Toolkit.Suite.Extended.Tools/60.2202.33": {
+      "sha512": "WfNs+lwd6Skyew9WqTykR/hcXYfeBi6YfBQovvHpTaY4nWmR5VQG/wrjC9i71S1/WuqY3YJpSAUSiSZbeb2piw==",
+      "type": "package",
+      "path": "krypton.toolkit.suite.extended.tools/60.2202.33",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Stable.png",
+        "krypton.toolkit.suite.extended.tools.60.2202.33.nupkg.sha512",
+        "krypton.toolkit.suite.extended.tools.nuspec",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Tools.dll",
+        "lib/net462/Krypton.Toolkit.Suite.Extended.Tools.xml",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Tools.dll",
+        "lib/net47/Krypton.Toolkit.Suite.Extended.Tools.xml",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Tools.dll",
+        "lib/net471/Krypton.Toolkit.Suite.Extended.Tools.xml",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Tools.dll",
+        "lib/net472/Krypton.Toolkit.Suite.Extended.Tools.xml",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Tools.dll",
+        "lib/net48/Krypton.Toolkit.Suite.Extended.Tools.xml",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Tools.dll",
+        "lib/net5.0-windows7.0/Krypton.Toolkit.Suite.Extended.Tools.xml",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Tools.dll",
+        "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Tools.xml",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Tools.dll",
+        "lib/netcoreapp3.1/Krypton.Toolkit.Suite.Extended.Tools.xml"
+      ]
+    },
+    "WindowsAPICodePackShell/1.1.2": {
+      "sha512": "YmRQvAakLUTfoIg/72hyLv1nutw7kdoMR6BkedxnbCnc5MIoN0PIziFWoHRgCmksjwNWlxtkHmrlo6zIjqBg+Q==",
+      "type": "package",
+      "path": "windowsapicodepackshell/1.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Windows Logo.png",
+        "content/license.txt",
+        "lib/Microsoft.WindowsAPICodePack.Shell.dll",
+        "windowsapicodepackshell.1.1.2.nupkg.sha512",
+        "windowsapicodepackshell.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Krypton.Toolkit.Suite.Extended.Memory.Box >= 60.2202.33",
+      "krypton.toolkit >= 60.22.2.32"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hhtke\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hhtke\\source\\repos\\School Maneger\\School Maneger\\School Maneger.vbproj",
+      "projectName": "School Maneger",
+      "projectPath": "C:\\Users\\hhtke\\source\\repos\\School Maneger\\School Maneger\\School Maneger.vbproj",
+      "packagesPath": "C:\\Users\\hhtke\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hhtke\\source\\repos\\School Maneger\\School Maneger\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hhtke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Krypton.Toolkit.Suite.Extended.Memory.Box": {
+            "target": "Package",
+            "version": "[60.2202.33, )"
+          },
+          "krypton.toolkit": {
+            "target": "Package",
+            "version": "[60.22.2.32, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'WindowsAPICodePackShell 1.1.2' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net6.0-windows7.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "WindowsAPICodePackShell",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

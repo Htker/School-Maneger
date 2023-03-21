@@ -1,0 +1,138 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Krypton.Toolkit/60.22.2.32": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.dll": {
+            "assemblyVersion": "60.22.2.32",
+            "fileVersion": "60.22.2.32"
+          }
+        }
+      },
+      "Krypton.Toolkit.Suite.Extended.Common/60.2202.33": {
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32",
+          "Krypton.Toolkit.Suite.Extended.Developer.Utilities": "60.2202.33",
+          "Krypton.Toolkit.Suite.Extended.Effects": "60.2202.33"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Common.dll": {
+            "assemblyVersion": "60.2202.33.0",
+            "fileVersion": "60.2202.33.0"
+          }
+        }
+      },
+      "Krypton.Toolkit.Suite.Extended.Developer.Utilities/60.2202.33": {
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32",
+          "Krypton.Toolkit.Suite.Extended.Tools": "60.2202.33",
+          "WindowsAPICodePackShell": "1.1.2"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Developer.Utilities.dll": {
+            "assemblyVersion": "60.2202.33.0",
+            "fileVersion": "60.2202.33.0"
+          }
+        }
+      },
+      "Krypton.Toolkit.Suite.Extended.Effects/60.2202.33": {
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Effects.dll": {
+            "assemblyVersion": "60.2202.33.0",
+            "fileVersion": "60.2202.33.0"
+          }
+        }
+      },
+      "Krypton.Toolkit.Suite.Extended.Memory.Box/60.2202.33": {
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32",
+          "Krypton.Toolkit.Suite.Extended.Common": "60.2202.33"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Memory.Box.dll": {
+            "assemblyVersion": "60.2202.33.0",
+            "fileVersion": "60.2202.33.0"
+          }
+        }
+      },
+      "Krypton.Toolkit.Suite.Extended.Tools/60.2202.33": {
+        "dependencies": {
+          "Krypton.Toolkit": "60.22.2.32"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Krypton.Toolkit.Suite.Extended.Tools.dll": {
+            "assemblyVersion": "60.2202.33.0",
+            "fileVersion": "60.2202.33.0"
+          }
+        }
+      },
+      "WindowsAPICodePackShell/1.1.2": {
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.Shell.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Krypton.Toolkit/60.22.2.32": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S0frJcQ1oUBOdlyAblIh7mpEr+6/Yi9xisFXfM55WOje0122Qye9jp/4UVKPCp889jmwZbEgXOGjdDOyzX8Ycg==",
+      "path": "krypton.toolkit/60.22.2.32",
+      "hashPath": "krypton.toolkit.60.22.2.32.nupkg.sha512"
+    },
+    "Krypton.Toolkit.Suite.Extended.Common/60.2202.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7T/Hp90yJidYfyXReJ/PBfghVLNX5JQ0pJ5N8T/SHUJkZjyCPzxqNFcuhhcLe3mAHyqTDNWQKQchVRqTX+EKOw==",
+      "path": "krypton.toolkit.suite.extended.common/60.2202.33",
+      "hashPath": "krypton.toolkit.suite.extended.common.60.2202.33.nupkg.sha512"
+    },
+    "Krypton.Toolkit.Suite.Extended.Developer.Utilities/60.2202.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UdDAFDf93v4iGI/BqWGZ+IEq37vvRJsxJjlikZ3rz1KZ8DOkx5dvAJHy4TYUcvUG9zvdklVKB/5w3jZR91orlA==",
+      "path": "krypton.toolkit.suite.extended.developer.utilities/60.2202.33",
+      "hashPath": "krypton.toolkit.suite.extended.developer.utilities.60.2202.33.nupkg.sha512"
+    },
+    "Krypton.Toolkit.Suite.Extended.Effects/60.2202.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nNvw6FW3kGvI58+F0XWmNzBxJZtPL6IOtrbh2KNkyMcIQatqMvQa7CwoT0OiyFszgf84OqwD4/2jPtRlI5QGXg==",
+      "path": "krypton.toolkit.suite.extended.effects/60.2202.33",
+      "hashPath": "krypton.toolkit.suite.extended.effects.60.2202.33.nupkg.sha512"
+    },
+    "Krypton.Toolkit.Suite.Extended.Memory.Box/60.2202.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x1rRbPwkfQ9CYEsGx6z568tVDrjC07oM3Hr0gcsxqYgX683usILPcpXIIelKEHDo395FFPrReq83pXVNucn39Q==",
+      "path": "krypton.toolkit.suite.extended.memory.box/60.2202.33",
+      "hashPath": "krypton.toolkit.suite.extended.memory.box.60.2202.33.nupkg.sha512"
+    },
+    "Krypton.Toolkit.Suite.Extended.Tools/60.2202.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WfNs+lwd6Skyew9WqTykR/hcXYfeBi6YfBQovvHpTaY4nWmR5VQG/wrjC9i71S1/WuqY3YJpSAUSiSZbeb2piw==",
+      "path": "krypton.toolkit.suite.extended.tools/60.2202.33",
+      "hashPath": "krypton.toolkit.suite.extended.tools.60.2202.33.nupkg.sha512"
+    },
+    "WindowsAPICodePackShell/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YmRQvAakLUTfoIg/72hyLv1nutw7kdoMR6BkedxnbCnc5MIoN0PIziFWoHRgCmksjwNWlxtkHmrlo6zIjqBg+Q==",
+      "path": "windowsapicodepackshell/1.1.2",
+      "hashPath": "windowsapicodepackshell.1.1.2.nupkg.sha512"
+    }
+  }
+}
